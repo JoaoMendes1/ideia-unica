@@ -3,7 +3,7 @@ import { useState, userState } from "react";
 function Home() {
     return (
         <div>
-            <h2>Deploy utilizando o Vercel</h2>
+            <h2>Deploy utilizando o Vercel - Página inicial</h2>
             <Contador/>
             <div>by: João Victor Mendes</div>
         </div>
